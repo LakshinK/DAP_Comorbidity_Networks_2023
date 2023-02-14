@@ -1,0 +1,21 @@
+"","condition","eigenCent","type","condition","eigenCent","type","condition","eigenCent","type","condition","eigenCent","type"
+"1","Atopic dermatitis (atopy)",1,4,"Atopic dermatitis (atopy)",1,4,"Seasonal allergies",1,4,"Dental calc./Gingivitis",1,3
+"2","Pruritis (itchy skin)",0.981310460738395,4,"Seasonal allergies",0.981745532605815,4,"Food or medicine allergies that affect the skin",0.973251669845939,4,"Hearing loss (incompletely deaf)",0.889762862256208,2
+"3","Seasonal allergies",0.832050539294415,4,"Food or medicine allergies that affect the skin",0.910735775039461,4,"Pruritis (itchy skin)",0.966923708311727,4,"Extracted teeth",0.742894886219561,3
+"4","Food or medicine allergies that affect the skin",0.78173502081212,4,"Chronic or recurrent skin infections",0.806326568261934,4,"Atopic dermatitis (atopy)",0.884952724381245,4,"Cataracts",0.723269707731909,1
+"5","Ear Infection",0.715381047430822,2,"Food or medicine allergies",0.777126670882714,7,"Food or medicine allergies",0.874589031813832,7,"Intervertebral disc disease",0.664581146098735,11
+"6","Fleas",0.668570032827289,4,"Ear Infection",0.766021591340603,2,"Chronic or recurrent skin infections",0.865378052121072,4,"Fleas",0.646159955127175,4
+"7","Chronic or recurrent skin infections",0.577499229237094,4,"Pruritis (itchy skin)",0.731262049082012,4,"Alopecia (hair loss)",0.81091931961551,4,"Dementia or senility",0.621980899847851,12
+"8","Flea allergy dermatitis",0.567474602848998,4,"Chronic or recurrent hot spots",0.550258520892163,4,"Flea allergy dermatitis",0.782936355063315,4,"Murmur",0.600248742088446,5
+"9","Food or medicine allergies",0.488390466945352,7,"Flea allergy dermatitis",0.457658114050049,4,"Ear Infection",0.730014128927795,2,"Ticks",0.528135865766323,4
+"10","Gastrointestinal parasites",0.474273393520033,16,"Contact dermatitis",0.436635195101382,4,"Chronic or recurrent hot spots",0.729146377190577,4,"Ear Infection",0.519003336713721,2
+"11","Chronic or recurrent hot spots",0.447159948651156,4,"Chronic or recurrent diarrhea",0.423622297621151,7,"Contact dermatitis",0.621823273701791,4,"Atopic dermatitis (atopy)",0.510580714926983,4
+"12","Roundworms",0.431829738085384,16,"Other allergies",0.382098284393639,7,"Lameness (chronic or recurrent)",0.481155745732038,11,"Congestive heart failure",0.505911081727564,5
+"13","Tapeworms",0.380717807000417,16,"Alopecia (hair loss)",0.370081988024682,4,"Pyoderma or bacterial dermatitis",0.472281657855514,4,"Chocolate",0.503844146253104,17
+"14","Giardia",0.286390421210598,16,"Anal sac impaction",0.350481648611548,7,"Chronic or recurrent diarrhea",0.430935999600303,7,"Nuclear sclerosis",0.478465261296484,1
+"15","Dental calc./Gingivitis",0.221353757435377,3,"Chronic or recurrent vomiting",0.291161777652573,7,"Fleas",0.421801583267219,4,"Seasonal allergies",0.470325179489684,4
+"16","Chronic or recurrent diarrhea",0.220857821954143,7,"Hip dysplasia",0.280807070848766,11,"Dental calc./Gingivitis",0.322062628304587,3,"Underbite",0.464176986564097,3
+"17","Foreign body ingestion or blockage",0.214151017084323,7,"Conjunctivitis",0.253533931045743,1,"Hookworms",0.317687547210058,16,"Food or medicine allergies",0.446071057064346,7
+"18","Hookworms",0.203127437142342,16,"Pyoderma or bacterial dermatitis",0.236874382227344,4,"Tapeworms",0.30574575191305,16,"Chronic kidney disease",0.444360770428112,9
+"19","Alopecia (hair loss)",0.186748896554295,4,"Rhinitis",0.224636906632833,2,"Extracted teeth",0.290444992432466,3,"Blindness",0.433584252513608,1
+"20","Contact dermatitis",0.16740934979735,4,"Osteoarthritis",0.207910423576497,11,"Roundworms",0.277468897152333,16,"Patellar luxation",0.430843920525231,11

@@ -1,0 +1,21 @@
+,Type,Young Adult,Middle Adult,Mature Adult,Senior
+1,Eye,0.004,0.034,0.066,0.164
+2,Ear/Nose/Throat,0.172,0.169,0.199,0.236
+3,Mouth/Dental/Oral,0.043,0.031,0.154,0.359
+4,Skin,0.320,0.317,0.390,0.257
+5,Cardiac,0.000,0.000,0.032,0.205
+6,Respiratory,0.000,0.003,0.033,0.131
+7,Gastrointestinal,0.103,0.191,0.137,0.142
+8,Liver/Pancreas,0.000,0.000,0.028,0.113
+9,Kidney/Urinary,0.016,0.006,0.030,0.190
+10,Reproductive,0.000,0.019,0.006,0.006
+11,Bone/Orthopedic,0.000,0.050,0.089,0.198
+12,Brain/Neurologic,0.000,0.055,0.008,0.175
+13,Hematopoietic,0.000,0.000,0.000,0.037
+14,Other Congenital Disorder,0.000,0.041,0.019,0.007
+15,Infection/Parasites,0.115,0.040,0.096,0.088
+16,Toxin Consumption,0.000,0.002,0.052,0.190
+17,Trauma,0.000,0.035,0.051,0.074
+18,Immune-mediated,0.000,0.005,0.004,0.002
+19,Cancer,0.000,0.000,0.007,0.022
+20,Endocrine,NA,0.044,0.009,0.056
